@@ -1,0 +1,1 @@
+<?php // Traîtement ajax ?>
